@@ -8,10 +8,10 @@ Nach welchem System ist folgende Zahlenreihe aufgebaut (?):
 </p>
 
 <p align="left">
-1 </n>
-11 </n>
-21 </n>
-1211 </n>
+1 <br>
+11 <br>
+21 <br>
+1211
 </p>
 
 <p align="left">
@@ -26,7 +26,7 @@ Ziel dieses kleinen Miniprojektes ist es nun, ein Programm zu schreiben, dass di
 Das Ergebnis sieht dann so aus:
 </p>
 
-<img src="https://github.com/robovisioneer/robovisioneer/blob/main/EineEins_bsp.png" align= alt="Banner" width="569" height="260"/></p>
+<img src="https://github.com/robovisioneer/robovisioneer/blob/main/EineEins/EineEins_bsp.png" align= alt="Banner" width="569" height="260"/></p>
 
 <p align="left">
 Nach ein paar Iterationen wiederholen sich die ersten Stellen in einer Dreierperiode.
