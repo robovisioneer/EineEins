@@ -1,6 +1,4 @@
 <p align="center">
-<img src="https://github.com/robovisioneer/robovisioneer/blob/main/Christian_Wiegel_Banner.jpg" align= alt="Banner" width="700" height="230"/></p>
-
 <h1 align="center">Hy 👋, herzlich willkommen zu meinem Miniprojekt "Eine Eins"!</h1>
 
 <p align="left">
@@ -26,7 +24,7 @@ Ziel dieses kleinen Miniprojektes ist es nun, ein Programm zu schreiben, dass di
 Das Ergebnis sieht dann so aus:
 </p>
 
-<img src="https://github.com/robovisioneer/EineEins/blob/main/EineEins_bsp.png" align= alt="Banner" width="569" height="260"/></p>
+<img src="https://github.com/robovisioneer/EineEins/blob/main/EineEins_bsp.png" alt="EineEins" width="569" height="260"/></p>
 
 <p align="left">
 Nach ein paar Iterationen wiederholen sich die ersten Stellen in einer Dreierperiode.
