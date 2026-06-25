@@ -1,22 +1,39 @@
 <p align="center">
 <img src="https://github.com/robovisioneer/robovisioneer/blob/main/Christian_Wiegel_Banner.jpg" align= alt="Banner" width="700" height="230"/></p>
 
-<h1 align="center">Hy 👋, herzlich willkommen auf meiner Seite!</h1>
+<h1 align="center">Hy 👋, herzlich willkommen zu meinem Miniprojekt "Eine Eins"!</h1>
 
 <p align="left">
-Ich bin ein Mechatronik-Ingenieur, der sich auf industrielle Bildverarbeitung und Robotik spezialisert hat.
+Nach welchem System ist folgende Zahlenreihe aufgebaut (?):
 </p>
 
 <p align="left">
-Anfang 2026 habe ich in Form von ein paar Programmen ein einigen Ideen realisiert, die ich schon immer in die Tat umsetzen wollte.
+1
+11
+21
+1211
 </p>
 
 <p align="left">
-Diese Programme zu verbessern oder als Inspiration zu nutzen, ist ausdruecklich erwuenscht!
+Man beschreibt einfach, was man sieht. Man beginnt mit "1" und sieht "eine Eins" in der Antwort sieht man dann "zwei Einsen" u.s.w.
 </p>
 
 <p align="left">
-Ich habe nun auch so programmiert, wie es spaetestens seit den 2020er Jahren standard ist: K.I.-gestuetzt. Es ist schon ein bisschen verrueckt: Man hat nicht nur das Gefuehl, Bill Gates wuerde einem beim Coden ueber die Schulter schauen, man scheint von ihm auch noch Tipps zu bekommen, die meistens mit dem Drücken der Tab-Taste komplett uebernommen werden koennen. Den Programmierer ersetzen kann das Ganze (noch) nicht. Wir sind noch weit davon entfernt eine App zu beschreiben und sie von der K.I. ohne menschliche Hilfe erstellen zu lassen. Man kommt nicht darum herum, die Basics zu lernen. Ohne zu wissen, was ein Datentyp oder objektorientierte Programmierung ist, wuerde ich auch mit der K.I. nicht weit kommen. Wir sollten vor der neuen Technologie keine Angst haben, sondern sie als Chance sehen. Ich finde es gut, dass mir die K.I. auf dem sich schnell veraendernden immer komplexer werdenden Gebiet der Programmierung unter die Arbeit greift.
+Ziel dieses kleinen Miniprojektes ist es nun, ein Programm zu schreiben, dass die Antworten selbststaendig gibt.
+</p>
+
+<p align="left">
+Das Ergebnis sieht dann so aus:
+</p>
+
+<img src="https://github.com/robovisioneer/robovisioneer/blob/main/Christian_Wiegel_Banner.jpg" align= alt="Banner" width="569" height="260"/></p>
+
+<p align="left">
+Nach ein paar Iterationen wiederholen sich die ersten Stellen in einer Dreierperiode.
+</p>
+
+<p align="left">
+Auch wenn der Algorithmus sehr simpel ist, lohnt es sich, ihn aus den Eff Eff zu beherrschen. Beim Vorstellungsgespraech in IT-lastigen Jobs muessen aehnliche Aufgaben am Whiteboard geloest werden. Z. B. muss man einen Algorithmus schreiben, der aus "aaabb" "3a2b" macht.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
