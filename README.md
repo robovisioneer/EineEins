@@ -26,7 +26,7 @@ Ziel dieses kleinen Miniprojektes ist es nun, ein Programm zu schreiben, dass di
 Das Ergebnis sieht dann so aus:
 </p>
 
-<img src="https://github.com/robovisioneer/robovisioneer/blob/main/EineEins/EineEins_bsp.png" align= alt="Banner" width="569" height="260"/></p>
+<img src="https://github.com/robovisioneer/robovisioneer/EineEins/blob/main/EineEins_bsp.png" align= alt="Banner" width="569" height="260"/></p>
 
 <p align="left">
 Nach ein paar Iterationen wiederholen sich die ersten Stellen in einer Dreierperiode.
